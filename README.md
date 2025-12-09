@@ -1,2 +1,2 @@
 # Scraper
-Building Concurrent Data-Processing Pipeline's in Elixir
+Building Concurrent Data-Processing Pipeline in Elixir
